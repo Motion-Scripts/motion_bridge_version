@@ -1,6 +1,7 @@
-1.0.0
+1.0.1
 
-- Bridge Created
+- Bridge Updated
+
 
 
 https://github.com/Motion-Scripts/motion_bridge
