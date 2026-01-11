@@ -1,7 +1,7 @@
 1.0.1
 
-- UI Added
-- Persistent tables
-- Weed pots added
+- New UI Added
 
-https://github.com/Motion-Scripts/motion_drugs
+
+
+https://github.com/Motion-Scripts/motion_redzones
