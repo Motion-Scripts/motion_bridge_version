@@ -1,1 +1,1 @@
-# motion_bridge_version
+# Motion Scripts Version Control
