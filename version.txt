@@ -1,7 +1,8 @@
-1.0.1
+1.0.2
 
-- Bridge Updated
-
+- Fixed Errors
+- New intergrations
 
 
 https://github.com/Motion-Scripts/motion_bridge
+
