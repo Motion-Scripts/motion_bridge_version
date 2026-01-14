@@ -1,7 +1,8 @@
-1.0.1
+1.0.2
 
 - New UI Added
-
-
+- Fixed Errors 
+- Bridge Intergration
 
 https://github.com/Motion-Scripts/motion_redzones
+
