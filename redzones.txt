@@ -1,8 +1,9 @@
 1.0.3
 
-- New Moder UI Added | Matches all Motion UI 
+- New Modern UI Added | Matches all Motion UI 
 - Notify is also out to match Motion the new UI
 
 https://github.com/Motion-Scripts/motion_redzones
+
 
 
