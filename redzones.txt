@@ -1,8 +1,8 @@
-1.0.2
+1.0.3
 
-- New UI Added
-- Fixed Errors 
-- Bridge Intergration
+- New Moder UI Added | Matches all Motion UI 
+- Notify is also out to match Motion the new UI
 
 https://github.com/Motion-Scripts/motion_redzones
+
 
